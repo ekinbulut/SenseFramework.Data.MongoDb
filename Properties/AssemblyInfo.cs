@@ -6,12 +6,12 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SenseFramework.Data.MongoDb")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("SenseFramework.Data.MongoDb is a MongoDb provider tool for SenseFramework")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("ekinbulut.com")]
 [assembly: AssemblyProduct("SenseFramework.Data.MongoDb")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyTrademark("ekinbulut.com")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
